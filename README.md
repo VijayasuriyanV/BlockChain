@@ -38,7 +38,4 @@ The contract can be further developed and tested based on specific requirements.
 
 This contract is provided as a sample implementation and should not be used in a production environment without appropriate security audits and modifications to meet specific use case requirements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
